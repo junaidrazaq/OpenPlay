@@ -1,6 +1,6 @@
 # Hey! Welcome to my completed tech test
 
-Dependencies used:
+## Dependencies used:
 - @reduxjs/toolkit
 - react-redux
 - styled-components
@@ -10,14 +10,14 @@ Dependencies used:
 ## Folder Structure
 
 src 
- > components 
-    > app
-    > shared
- > models
-    > [Files_here]
- > redux
-    > slices  
-    > index.ts
+ - components 
+    - app
+    - shared
+ - models
+    - [Files_here]
+ - redux
+    - slices  
+    - index.ts
 
 
 - Seperated State from components for ease of access
