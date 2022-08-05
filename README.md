@@ -20,7 +20,7 @@ src
     - index.ts
 
 ### Benefits
-- Seperated State from components for ease of access
+- Seperated redux state from components for ease of access
 - Created global types for continuous reuse
 - Contained Components to single folder, Whereby further segregated by app components and resuable/common/shared components
 
@@ -29,7 +29,7 @@ src
 
 - Api request mocked
 - Data stored in state, and used accross application
-- Fuzzy search implemented
+- Fuzzy search implemented using fuze.js
 - Reusable component created, used throughout application
 - Application made responsive
 
