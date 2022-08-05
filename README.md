@@ -19,7 +19,7 @@ src
     - slices  
     - index.ts
 
-
+### Benefits
 - Seperated State from components for ease of access
 - Created global types for continuous reuse
 - Contained Components to single folder, Whereby further segregated by app components and resuable/common/shared components
