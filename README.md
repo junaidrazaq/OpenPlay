@@ -37,6 +37,7 @@ src
 ## Improvements [with increased time]
 
 - Implement filter by dropdown
+- Make it clearer that the facilities are clickable
 - Increase Styling & further responsiveness of application
 - Implement thorough testing
 - Write Docs
