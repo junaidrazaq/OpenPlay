@@ -49,7 +49,6 @@ const Facility: React.FC<Facilities> = ({ id, name, tags }) => {
       mt="20px"
       hover
       alignSelf="flex-start"
-      onClick={() => activities === false && _handleToggle()}
     >
       <Title // **--  Name --** \\
         onClick={_handleToggle}
