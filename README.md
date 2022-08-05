@@ -29,7 +29,7 @@ src
 
 - Api request mocked
 - Data stored in state, and used accross application
-- Fuzzy search implemented using fuze.js
+- Fuzzy search implemented using fuse.js
 - Reusable component created, used throughout application
 - Application made responsive
 
